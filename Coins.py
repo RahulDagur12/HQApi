@@ -112,4 +112,4 @@ async def hq(ctx, message=None):
             await client.edit_message(e,embed=embed)
             break
 
-client.run("Bot token")
+client.run("NjI3MzY4NTc5NjMyNzI2MDI3.XY8lfw.92lNUoDIvXxDN3uMG5YZDwbqDbA")
