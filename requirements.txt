@@ -1,0 +1,11 @@
+pynacl==1.2.1
+discord==0.16.12
+discord.py==0.16.12
+pip
+youtube_dl
+colorlog
+cffi --only-binary all; sys_platform == 'win32'
+jwt
+requests
+aiohttp
+lomond
